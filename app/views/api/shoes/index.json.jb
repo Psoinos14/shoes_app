@@ -1,0 +1,7 @@
+@shoes.map do |shoe|
+  {
+    company: shoe.company,
+    size: shoe.size,
+    color: shoe.color
+}
+end
